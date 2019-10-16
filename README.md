@@ -1,1 +1,1 @@
-# vscode-sv-cms-snippets
+# Simpleview CMS Code Snippets
