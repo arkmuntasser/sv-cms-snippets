@@ -1,0 +1,16 @@
+{
+  "svasset": {
+    "prefix": "svasset",
+    "body": [
+      "{{asset.resource.getThumbnailUrl({",
+      "\twidth: ${1:800}",
+      "\theight: ${2:600}",
+      "\tcrop: '${3:fill}'",
+      "\tquality: ${4:60}",
+      "\tfetch_format: '${5:jpg}'",
+      "\tsv: { gravity: 'focalPoint' }",
+      "})}}"
+    ],
+    "description": "Get the url for an asset"
+  }
+}
